@@ -4,7 +4,7 @@ A simple bash script that will generate a slideshow from a folder of images.
 
 ## Requirements
 
-* [FFMPEG](http://www.ffmpeg.org/)
+* [FFMPEG](http://www.ffmpeg.org/) - Latest version is needed!
 
 ## Usage
 
